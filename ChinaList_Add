@@ -7,7 +7,7 @@
 !
 ! Videos, IQIYI & YOUKU
 ||static.iqiyi.com/js/common/mars_v.js*
-https://g.alicdn.com/mm/yksdk/0.2.02/playersdk.js
+||g.alicdn.com/mm/yksdk/0.2.02/playersdk.js
 !
 ! Wraps
 member.bilibili.com###canvas-wrap
