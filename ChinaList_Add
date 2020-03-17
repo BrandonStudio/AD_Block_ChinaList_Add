@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+!
+! Videos, IQIYI & YOUKU
+||static.iqiyi.com/js/common/mars_v.js*
+https://g.alicdn.com/mm/yksdk/0.2.02/playersdk.js
+!
+! Wraps
+member.bilibili.com###canvas-wrap
+360kuai.com##.flow
+360kuai.com##.aside__items.clearfix.recommend__items
+360kuai.com##.aside__items.hotnews__items.clearfix
