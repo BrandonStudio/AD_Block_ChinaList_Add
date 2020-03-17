@@ -1,5 +1,8 @@
 [Adblock Plus 2.0]
 !
+! Version: 1.0.0.0
+! Title: ChinaList_Add
+!
 ! Videos, IQIYI & YOUKU
 ||static.iqiyi.com/js/common/mars_v.js*
 https://g.alicdn.com/mm/yksdk/0.2.02/playersdk.js
