@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.0.0.0
+! Version: 20200512
 ! Title: ChinaList_Add
-! Last modified: 17 Mar 2020 03:27 UTC
+! Last modified: 12 May 2020 01:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/BrandonStudio/AD_Block_ChinaList_Add
 !
@@ -10,9 +10,15 @@
 ||g.alicdn.com/mm/yksdk/*/playersdk.js
 !
 ! Wraps
-member.bilibili.com###canvas-wrap
 360kuai.com##.flow
 360kuai.com##.aside__items.clearfix.recommend__items
 360kuai.com##.aside__items.hotnews__items.clearfix
 icourse163.org##.privacy-info-container
 icourse163.org##.ux-modal.um-recommend-modal.ux-modal-fadeIn
+microsoft.com###bannerAboveUHF
+microsoft.com##.banner-entry-flight.banner-aboveuhf-container.x-hidden-vp1
+###adleft
+###google_ads_iframe_*
+whatismyipaddress.com##.sticky-wrapper
+whatismyipaddress.com###slot-footer-wrapper
+whatismyipaddress.com##.up-show
