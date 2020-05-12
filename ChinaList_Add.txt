@@ -13,8 +13,6 @@
 360kuai.com##.flow
 360kuai.com##.aside__items.clearfix.recommend__items
 360kuai.com##.aside__items.hotnews__items.clearfix
-icourse163.org##.privacy-info-container
-icourse163.org##.ux-modal.um-recommend-modal.ux-modal-fadeIn
 microsoft.com###bannerAboveUHF
 microsoft.com##.banner-entry-flight.banner-aboveuhf-container.x-hidden-vp1
 ###adleft
