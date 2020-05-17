@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.5]
 ! Version: 20200512
 ! Title: ChinaList_Add
 ! Last modified: 12 May 2020 01:48 UTC
@@ -8,6 +8,7 @@
 ! Videos, IQIYI & YOUKU
 ||static.iqiyi.com/js/common/mars_v.js*
 ||g.alicdn.com/mm/yksdk/*/playersdk.js
+||vm.gtimg.cn/tencentvideo/txp/js/plugins/hdadadapter.4aacd6.js*$rewrite=abp-resource:blank-js
 !
 ! Wraps
 360kuai.com##.flow
