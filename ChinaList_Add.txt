@@ -1,7 +1,7 @@
 [Adblock Plus 3.5]
-! Version: 20200512
+! Version: 20200517
 ! Title: ChinaList_Add
-! Last modified: 12 May 2020 01:48 UTC
+! Last modified: 17 May 2020 03:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/BrandonStudio/AD_Block_ChinaList_Add
 !
@@ -9,6 +9,7 @@
 ||static.iqiyi.com/js/common/mars_v.js*
 ||g.alicdn.com/mm/yksdk/*/playersdk.js
 ||vm.gtimg.cn/tencentvideo/txp/js/plugins/hdadadapter.4aacd6.js*$rewrite=abp-resource:blank-js
+||v.qq.com##.hd-ad-adapter-interactivelayer
 !
 ! Wraps
 360kuai.com##.flow
